@@ -1,0 +1,6 @@
+Type		 Name		 Value		 size	
+int		 i		 10		 4	
+int		 j		 21		 4	
+int		 k		 		 4	
+float		 f		 34.6		 8	
+char		 s		 		 2	

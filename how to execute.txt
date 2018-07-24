@@ -1,0 +1,7 @@
+yacc -d grammer.y
+lex grammer.l
+gcc -O3 y.tab.c -ll -lm
+
+./a.out -o input.c     //for optimization
+
+./a.out -n input.c     //for non-optimization
