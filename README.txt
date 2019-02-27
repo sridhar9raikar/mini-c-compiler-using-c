@@ -2,14 +2,6 @@
                    Implementing Mini C-Compiler    
 ******************************************************************
 
-Team Member:
-   1. S Rajesh               -  01FB15ECS249
-   2. Sanjay Rajendra Awate  -  01FB15ECS265
-   3. Shankar Kanamadi       -	01FB16ECS722  
-   4.Sandeep Kumar           -  01FB15ECS903
-
-******************************************************************
-
 
 
  
